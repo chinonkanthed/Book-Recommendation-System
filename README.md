@@ -1,0 +1,5 @@
+"This project is a Django-based system for recommending books." 
+"## Features" 
+"- Top 50 books displayed on the index page" 
+"- Personalized recommendations" 
+"## Setup" 
